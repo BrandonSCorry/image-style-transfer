@@ -41,7 +41,7 @@ Fast Style Transfer in Tensorflow - [Code](https://github.com/lengstrom/fast-sty
 
  * Copyright (c) 2016 Logan Engstrom
 
-The rest of this project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The rest of this project is licensed under the MIT License - see the [License.md](License.md) file for details
 
 ## Acknowledgments
 
