@@ -8,7 +8,7 @@
 
 * **About Page**: Brief overview of project
 
-* **Community Page**: See all user submitted styled images
+* **Community Page**: See all user submitted styled images and vote on them
 
 * **Saved Page**: See all of your styled images
 
