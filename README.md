@@ -20,7 +20,7 @@
 
 ## Heroku Deployment
 
-[Freaky-Styley Deployed](https://freakey-styley-brt2.herokuapp.com/) (this will build the React app on visit (free Heroku), so the first load may take some time.
+[Freaky-Styley Deployed](https://freakey-styley-brt2.herokuapp.com/) (this will build the React app on visit (free Heroku), so the first load may take some time.)
 
 ## Contributing
 
