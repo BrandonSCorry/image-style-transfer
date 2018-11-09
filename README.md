@@ -1,6 +1,6 @@
 # <p align='center'>:fire: :zap: :volcano: freaky-styley :v: :metal: :fire:</p>
 
-### <p align='center'> **Neural image style transfer** in the browser.
+### <p align='center'> **Neural image style transfer** in the (not IE) browser.
 
 * **Create an acccount** to get started.
 
