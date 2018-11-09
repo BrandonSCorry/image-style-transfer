@@ -29,9 +29,9 @@ Please contact [mailto](mailto:brandonssc@gmail.com)
 
 ## Authors
 
-**Tom Dennis
-Tom Schofield
-Rohit Maharjan
+**Tom Dennis,
+Tom Schofield,
+Rohit Maharjan,
 Brandon Shoun-Corry**
 
 
