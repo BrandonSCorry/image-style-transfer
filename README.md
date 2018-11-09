@@ -22,6 +22,8 @@
 
 [Freaky-Styley Deployed](https://freakey-styley-brt2.herokuapp.com/) (this will build the React app on visit (free Heroku), so the first load may take some time.)
 
+* Sign-Up is currently required to style transfer images and view/vote on the community page.
+
 ## Contributing
 
 If interested in contributing to this project.
