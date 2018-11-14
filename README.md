@@ -53,5 +53,6 @@ The rest of this project is licensed under the MIT License - see the [License.md
 
 * Logan Engstrom for Fast Style Transfer
 * CvalenzuelaB for docker container
+* Thanks Sam V for 3d slicing
 * T.A.s for their most gracious help
 * Thanks Mom
